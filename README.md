@@ -101,14 +101,11 @@ int main() {
 ## OUTPUT:
 ### Simulating Caesar Cipher
 
-![image](https://github.com/user-attachments/assets/c7d6a015-a0fc-4516-9bbc-4a74f3c7dd01)
-
-
-Input : RAGUL
+Input : NIJEESH
 
 Encrypted Message : UDJXO 
 
-Decrypted Message : RAGUL
+Decrypted Message : NIJEESH
 
 ## RESULT:
 The Caeser Cipher program is executed successfully.
@@ -369,11 +366,13 @@ int main() {
 
 ```
 ## OUTPUT:
+Key text: SAVEETHA
 
+Plain text: NIJEESH
 
-![Screenshot 2024-09-02 112320](https://github.com/user-attachments/assets/d93da392-9172-4514-90f4-8f3e8d191aea)
+Cipher text: oglatafu
 
-
+Decrypted text: nijeesh
 
 
 ## RESULT:
@@ -508,8 +507,13 @@ int main() {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/a057df04-85d3-40b6-9b48-c19506ab885c)
+Input message : NIJEESH
 
+Padded message : NIJEESHXX
+
+Encoded message : VQMWEEVZY
+
+Decoded message : NIJEESHXX
 
 
 
@@ -623,7 +627,9 @@ void decipher() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/a6ad416c-ebac-46af-be29-b086ee46699a)
+
+![image](https://github.com/user-attachments/assets/41de7e15-02af-4799-b3f1-477d4591b7ba)
+
 
 
 
@@ -795,9 +801,9 @@ void decrypt(char str[], int rails) {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/bd2a2f5f-f212-4ab3-9fde-762a6d997c5d)
 
-![image](https://github.com/user-attachments/assets/9977fcb0-52ec-4688-867a-dadc157e9a26)
+![image](https://github.com/user-attachments/assets/a72d5c24-b78a-4526-a24b-ab5df675ef77)
+
 
 
 
